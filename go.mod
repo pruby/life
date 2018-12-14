@@ -1,6 +1,6 @@
 module github.com/pruby/life
 
-replace github.com/go-interpreter/wagon v0.0.0 => github.com/pruby/wagon v0.3.1-0.20180825141017-f8cb99b55a39
+replace github.com/go-interpreter/wagon => github.com/pruby/wagon v0.3.1-0.20180825141017-f8cb99b55a39
 
 require (
 	github.com/pruby/wagon v0.3.1-0.20180825141017-27106ec6b7e2
